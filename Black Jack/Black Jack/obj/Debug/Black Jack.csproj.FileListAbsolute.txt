@@ -1,0 +1,10 @@
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\bin\Debug\Black Jack.exe.config
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.AssemblyReference.cache
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\obj\Debug\Black_Jack.Card.resources
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.GenerateResource.cache
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.CoreCompileInputs.cache
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\obj\Debug\Black Jack.exe
+C:\Users\Kazi\source\repos\Black Jack\Black Jack\obj\Debug\Black Jack.pdb
